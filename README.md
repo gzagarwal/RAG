@@ -1,2 +1,1 @@
-# RAG
-Multiple RAG Application
+# 📄 RAG Applications
